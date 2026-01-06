@@ -1,2 +1,2 @@
 # Lag-Switcher-For-Linux
-Niri-Only
+Tightly integrated wirh Niri, so uh, type shit.
