@@ -1,0 +1,16 @@
+{
+    "click_cps": 18,
+    "key_macro_trigger": "Key.f3",
+    "macro_hold_start": 0.0,
+    "macro_hold_len": 1.0,
+    "macro_net_start": 1.05,
+    "macro_net_len": 1.4,
+    "macro_spam_start": 1.0,
+    "macro_spam_len": 2.4,
+    "overlay_enabled": false,
+    "overlay_x": 12,
+    "overlay_y": 21,
+    "fallback_key": "8",
+    "network_interface": "",
+    "bandwidth_limit": 0
+}
