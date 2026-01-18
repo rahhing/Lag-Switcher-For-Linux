@@ -3,4 +3,4 @@ Tightly integrated wirh Niri, since it doesn't use typical global keybinds, sinc
 
 - Personal project, I will not be fixing any bugs you report, this is meant to only be for myself, though you can take apart the code and make your own version.
 
-- Vibed with love because I don't know nor care about networking.
+- Vibed with love by Claude Sonnet 4.5 because I don't know nor care about networking.
